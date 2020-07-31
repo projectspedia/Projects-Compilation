@@ -1,7 +1,12 @@
-# Projects
+# Projects Compilation
 
+ An open-source repository where you can find projects on all tech field and can contribute your projects to help others.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68890280/89065307-0a98fc80-d389-11ea-9546-ea869fdd037b.jpg" width="40%"></img> 
+</p>
 
 To get started, simply fork this repository first. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
 
 ## Table of Contents:
 
@@ -12,7 +17,7 @@ To get started, simply fork this repository first. Please refer to [CONTRIBUTING
 - [Dart](#dart)
 - [Data Science](#data-science)
 - [Game Development](#game-development)
-- [GoLang](#go)
+- [GoLang](#golang)
 - [HTML/CSS](#html-and-css)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -28,7 +33,7 @@ To get started, simply fork this repository first. Please refer to [CONTRIBUTING
 - [Miscellaneous](#miscellaneous)
 
 
-## Android:
+## Android: 
 
 ### Java:
 
