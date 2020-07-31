@@ -1,1 +1,156 @@
-# projects
+# Projects
+
+
+To get started, simply fork this repository first. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
+## Table of Contents:
+
+- [Android](#android)
+- [Blockchain](#blockchain)
+- [C#](#c)
+- [C/C++](#cc)
+- [Dart](#dart)
+- [Data Science](#data-science)
+- [Game Development](#game-development)
+- [GoLang](#go)
+- [HTML/CSS](#html-and-css)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [Kotlin](#kotlin)
+- [PHP](#php)
+- [Python](#python)
+- [R](#r)
+- [Ruby](#ruby)
+- [Rust](#rust)
+- [Scala](#scala)
+- [Swift](#swift)
+- [Web Development](#web-development)
+- [Miscellaneous](#miscellaneous)
+
+
+## Android:
+
+### Java:
+
+
+
+### Kotlin:
+
+
+
+### Flutter:
+
+
+
+### React Native:
+
+
+
+### Xamarian:
+
+
+## Blockchain:
+
+### Solidity:
+
+
+
+### Etherium:
+
+
+
+## C/C++:
+
+
+
+## C#:
+
+
+
+## Dart:
+
+
+
+## Data Science:
+
+
+
+
+## GOLang:
+
+
+
+## HTML and CSS:
+
+
+
+## Java:
+
+
+
+## JavaScript:
+
+
+## Kotlin:
+
+
+## Game Development:
+
+
+
+## Python:
+
+
+
+## PHP:
+
+
+
+## R:
+
+
+
+## Ruby:
+
+
+
+## Rust:
+
+
+## Scala:
+
+
+
+## Swift:
+
+
+
+## Web Development:
+
+### FrontEnd
+
+#### React:
+
+
+
+#### Angular:
+
+
+
+#### Vue:
+
+
+
+### BackEnd:
+
+#### Node:
+
+
+
+### FullStack:
+
+
+
+
+## Miscellaneous:
+
