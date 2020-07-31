@@ -1,6 +1,6 @@
 # Projects Compilation
 
- An open-source repository where you can find projects on all tech field and can contribute your projects to help others.
+ An open-source repository where you can find projects on all tech fields and can contribute to help others.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/68890280/89065307-0a98fc80-d389-11ea-9546-ea869fdd037b.jpg" width="40%"></img> 
 </p>
