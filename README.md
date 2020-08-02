@@ -87,7 +87,7 @@ To get started, simply fork this repository first. Please refer to [CONTRIBUTING
 
 
 ## HTML and CSS:
-
+- [Newsweek](https://github.com/Anna-Myzukina/Newsweek) <br> In this project, I built a replica of the news site Newsweek.com using HTML, CSS and the Bootstrap 4 framework. The live version of this project: [Newsweek](https://anna-myzukina.github.io/Newsweek/).
 
 
 ## Java:
